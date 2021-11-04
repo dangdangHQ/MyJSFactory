@@ -1,0 +1,14 @@
+{
+  "name": "my_js_factory",
+  "version": "1.0.0",
+  "description": "开发过程中总结开发的各类js库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js、factory、jsFactory、function"
+  ],
+  "author": "dangdang_hq",
+  "license": "ISC"
+}
